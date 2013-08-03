@@ -1,0 +1,5 @@
+Dropbox::API::Config.app_key    = 'g1v305hrbj7n19f'
+Dropbox::API::Config.app_secret = 'rt0gvzbbq75lpee'
+# 'sandbox' mode because designated app-exclusive directory is fine for us
+Dropbox::API::Config.mode       = "sandbox"
+
